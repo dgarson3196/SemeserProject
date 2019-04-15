@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Relative layout and background street image-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/architecture_buildings_cars_1034662"  >
+
+    <!--Driver button-->
+    <Button
+        android:id="@+id/driver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+       android:layout_marginBottom="60dp"
+       android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:textSize="25dp"
+        android:text="DRIVER" />
+
+    <!--Rider button-->
+    <Button
+        android:text="RIDER"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="40dp"
+        android:paddingRight="50dp"
+        android:layout_marginBottom="60dp"
+        android:textSize="25dp"
+        android:id="@+id/customer"/>
+
+</RelativeLayout>

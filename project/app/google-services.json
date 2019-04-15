@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628651664182",
+    "firebase_url": "https://semester-f9c3c.firebaseio.com",
+    "project_id": "semester-f9c3c",
+    "storage_bucket": "semester-f9c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628651664182:android:d32fb5b09967d894",
+        "android_client_info": {
+          "package_name": "comc.example.dagar.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628651664182-sqcovkh9qptes1r9iru4u1kt9tqmivd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comc.example.dagar.project",
+            "certificate_hash": "1a1aa7e39a0bc8a5cc9c15b6f63d3604acc215a3"
+          }
+        },
+        {
+          "client_id": "628651664182-qdoq0iesnlk7nvsol6o8flj7ash4n6v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmybromnx5zt2liOnw9p6AX2b9K--eIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628651664182-qdoq0iesnlk7nvsol6o8flj7ash4n6v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
