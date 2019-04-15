@@ -1,4 +1,4 @@
-# SemeserProject
+# SemesterProject
 
 
 ## Due: 04-24-2019
